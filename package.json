@@ -1,0 +1,19 @@
+{
+  "name": "hare",
+  "version": "1.0.0",
+  "description": "health tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomblake/hare.git"
+  },
+  "author": "Thom Blake <thethomblake@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/thomblake/hare/issues"
+  },
+  "homepage": "https://github.com/thomblake/hare#readme"
+}
