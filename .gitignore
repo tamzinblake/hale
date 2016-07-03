@@ -1,0 +1,12 @@
+.gradle/
+build/
+.tmp/
+.temp/
+*.iml
+.idea
+coverage/
+*.log
+node_modules/
+bower_components/
+platforms/
+plugins/
